@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StudentManagement_StudentWPF/1.0.0": {
+        "runtime": {
+          "StudentManagement_StudentWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentManagement_StudentWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
